@@ -48,7 +48,6 @@
 2. ⬆️ Pushed to [xoxovell/getcontact-cli](https://github.com/xoxovell/getcontact-cli)<br>
 3. ⬆️ Pushed to [xoxovell/getcontact-cli](https://github.com/xoxovell/getcontact-cli)<br>
 4. ⬆️ Pushed to [xoxovell/getcontact-cli](https://github.com/xoxovell/getcontact-cli)<br>
-5. ⬆️ Pushed to [xoxovell/xoxovell](https://github.com/xoxovell/xoxovell)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
