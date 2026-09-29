@@ -44,8 +44,6 @@
 > Automatically updated every 5 minute.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [xoxovell/getcontact-cli](https://github.com/xoxovell/getcontact-cli)<br>
-2. ⬆️ Pushed to [xoxovell/getcontact-cli](https://github.com/xoxovell/getcontact-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
