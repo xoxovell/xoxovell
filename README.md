@@ -44,6 +44,7 @@
 > Automatically updated every 5 minute.
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [MasAjie12/live-comment-overlay](https://github.com/MasAjie12/live-comment-overlay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
